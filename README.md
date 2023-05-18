@@ -10,7 +10,7 @@ Step 1 : Problem understanding
 Step 2 : Data wrangling    
 Step 3 : EDA   
        - data inspection   
-       - data visualization. 
+       - data visualization  
 Step 4 : Features engineering   
 Step 5 : Modelling and Machine learning   
 Step 6 : models evaluation and selection   
